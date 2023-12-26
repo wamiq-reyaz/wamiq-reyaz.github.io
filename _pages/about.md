@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 
 permalink: /
 # use html link to 
 subtitle: <a href='https://cemse.kaust.edu.sa/vcc'>Affiliation</a>. 
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduated PhD student at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa). I worked with [Prof. Peter Wonka](https://peterwonka.net/) in the [Visual Computing Center (VCC)](https://cemse.kaust.edu.sa/vcc) at KAUST.
+I am a graduated PhD student at the [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/). I worked with [Prof. Peter Wonka](https://peterwonka.net/) in the [Visual Computing Center (VCC)](https://cemse.kaust.edu.sa/vcc) at KAUST.
 
 For my PhD, I worked on using NLP models to generate various kinds of non-languages. I am currently working on using diffusion models for generating 3D representations. 
 
