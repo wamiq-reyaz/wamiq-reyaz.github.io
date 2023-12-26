@@ -3,7 +3,7 @@ layout: about
 title: 
 permalink: /
 # use html link to 
-subtitle: <a href='https://cemse.kaust.edu.sa/vcc'>Affiliation</a>. 
+subtitle: <a href='https://cemse.kaust.edu.sa/vcc'>Current Affilliation</a> 
 
 profile:
   align: right
