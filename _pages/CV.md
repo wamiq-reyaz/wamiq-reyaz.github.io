@@ -1,6 +1,6 @@
 ---
 layout: cv_link
-permalink: /cv/
+permalink: /assets/pdf/Wamiq_cv_en_bw.pdf
 title: CV
 nav: true
 nav_order: 5
