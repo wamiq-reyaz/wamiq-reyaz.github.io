@@ -4,3 +4,43 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"CVPR":
+  url: http://openaccess.thecvf.com/
+  color: "#00a0e3"
+
+"ICCV":
+  url: http://openaccess.thecvf.com/
+  color: "#1e90ff"
+
+"ECCV":
+  url: https://link.springer.com/conference/eccv
+  color: "#1e90ff"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#ff6600"
+
+"NeurIPS":
+  url: https://papers.nips.cc/
+  color: "#ff6600"
+
+"ICLR":
+  url: https://iclr.cc
+  color: "#ff6600"
+
+"SIGGRAPH":
+  url: https://dl.acm.org/conference/siggraph
+  color: "#ff66ff"
+
+"SIGGRAPH Asia":
+  url: https://dl.acm.org/conference/siggraph-asia
+  color: "#ff66ff"
+
+"TOG":
+  url: https://dl.acm.org/journal/tog
+  color: "#ff66ff"
+
+"TVCG":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945
+  color: "#ff66ff"
