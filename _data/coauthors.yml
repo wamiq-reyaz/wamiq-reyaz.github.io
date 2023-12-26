@@ -1,5 +1,5 @@
 "Mitra":
-  - firstname: ["Niloy"]
+  - firstname: ["Niloy", "Niloy J."]
     url: https://scholar.google.com/citations?hl=en&user=dPrZJWMAAAAJ
 
 "Wonka":
@@ -7,7 +7,7 @@
     url: https://scholar.google.com/citations?hl=en&user=Z4u3ZCkAAAAJ
 
 "Guibas":
-  - firstname: ["Leonidas", "Leonidas J"]
+  - firstname: ["Leonidas", "Leonidas J."]
     url: https://scholar.google.com/citations?hl=en&user=5JlEyTAAAAAJ
   
 "Kelly":
@@ -23,9 +23,13 @@
     url: https://scholar.google.com/citations?hl=en&user=Gn8URq0AAAAJ
 
 "Bhat":
-  - firstname: ["Shariq Farooq"]
+  - firstname: ["Shariq Farooq", "Shariq"]
     url: https://scholar.google.com/citations?hl=en&user=nGbEcI8AAAAJ
 
 "Anna":
   - firstname: ["Fruehstueck", "Frühstück"]
     url: https://scholar.google.com/citations?hl=en&user=d0hUiVIAAAAJ
+
+"Femiani":
+  - firstname: ["John"]
+    url: https://scholar.google.com/citations?user=rS1xJIIAAAAJ
