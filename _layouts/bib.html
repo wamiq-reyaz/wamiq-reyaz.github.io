@@ -50,10 +50,10 @@
                   {%- if site.data.venues[entry.abbr].color != blank -%}
                     {%- assign venue_style = 'background-color: ' | append: site.data.venues[entry.abbr].color -%}
                   {%- endif -%}
-                    <abbr class="badge" style="position: absolute; top: 0; right: 0; {% if venue_style %}{{venue_style}}{% endif %}"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+                    <abbr class="badge" style="position: absolute; top: 0; left: 0; {% if venue_style %}{{venue_style}}{% endif %}"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
                   <!-- <abbr class="badge" style="position: absolute; top: 0; right: 0; {% if venue_style %}{{venue_style}}{% endif %}"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr> -->
                 {%- else -%}
-                  <abbr class="badge" style="position: absolute; top: 0; right: 0;">{{entry.abbr}}</abbr>
+                  <abbr class="badge" style="position: absolute; top: 0; left: 0;">{{entry.abbr}}</abbr>
                 {%- endif -%}
               {%- endif -%}
             </div>
