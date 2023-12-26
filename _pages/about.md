@@ -7,7 +7,7 @@ subtitle: <a href='https://cemse.kaust.edu.sa/vcc'>Affiliation</a>.
 
 profile:
   align: right
-  image: wamiq-picture.jpg
+  image: wamiq_picture.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     # <p>555 your office number</p>
