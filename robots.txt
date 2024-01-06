@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wamiq-reyaz.github.io/sitemap.xml
+Sitemap: https://www.wamiq-reyaz.github.io/sitemap.xml
